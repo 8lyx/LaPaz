@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:0 ,Unitel La Paz SD
+http://api.new.livestream.com/accounts/8665913/events/3330503/live.m3u8
+
+#EXTINF:0 ,Unitel sc SD
+http://api.new.livestream.com/accounts/8665913/events/4253600/live.m3u8
+
+#EXTINF:0 ,Unitel sc HD
+http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
+
+#EXTINF:0 ,RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist.m3u8
+
+#EXTINF:0 ,Bolivision lp
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzMjc4MTA5LCJzZXNzaW9uIjoiMjAwLjg3LjkyLjE4Iiwid2hpdGVsaXN0IjpbIjIwMC44Ny45Mi4xOCJdfSwic2lnbmF0dXJlIjoiZTBiNWYzNjdkYjcxNDQ5MDc0OTc0MjQyNmYwMWMzNWE3YzMxYjNhNyJ9
+
+#EXTINF:0 ,BTV 
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:0 ,BTV (deportes)
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+#EXTINF:0 ,ATB sd (p)
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:0 ,ATB HD (p)
+http://136.243.3.70:1935/Atb/Atb/playlist.m3u8
+
+#EXTINF:0 ,Red Uno (p)
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f3ab2cdc31ce152b0097/playlist.m3u8
+
+#EXTINF:0 ,TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+
+#EXTINF:0 ,Catolica Tv
+http://136.243.3.70:1935/CatolicaTv/CatolicaTv/chunklist.m3u8
+
+#EXTINF:0 ,VOS Tv
+http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
+
+#EXTINF:0 ,PAT (p)
+http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
+
+#EXTINF:0 ,Xto Tv
+http://136.243.3.70:1935/XtoTv/XtoTv/chunklist.m3u8
+
+#EXTINF:0 ,Red ADV
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8
+
+#EXTINF:0 ,MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:0 ,Capital Tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:0 ,REC on Line
+http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 ,EVO Tv
+http://stmv1.questreaming.com/ebotv/ebotv/playlist.m3u8
+
+#EXTINF:0 ,VPO Tv
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2006277254.m3u8
+
+#EXTINF:0 ,Coral Tv (oruro)
+http://cp.sradiotv.com:1935/coraltv/coraltv/playlist.m3u8
+
+#EXTINF:0 ,Guadalupe Tv (sucre)
+http://hd.istbolivia.com:1935/gtvsucre/gtvsucre/playlist.m3u8
+
+#EXTINF:0 ,Mega Amazonia (sc)
+http://canaltv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
+
+#EXTINF:0 ,Mega TV (cbba)
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w994371917.m3u8
+
+#EXTINF:0 ,TV Latina (montero)
+http://95.211.214.198:8181/live/tvlatinamontero/index.m3u8
+
+#EXTINF:0 ,TV Show
+http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
